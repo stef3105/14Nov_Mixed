@@ -1,0 +1,47 @@
+[
+    {
+        "Text": "Frage 1: Was versteht man unter dem Maximumprinzip?",
+        "AntwortListe": [
+            {
+                "Text": "Eine bestimmt Nachricht mit geringsten Telefonkosten uebermitteln.",
+                "Wahr": false
+            },
+            {
+                "Text": "Mit gegebenen Mitteln maximalen Erfolg erzielen.",
+                "Wahr": true
+            },
+            {
+                "Text": "Maximalen Erfolg mit minimalen Mitteln erzielen.",
+                "Wahr": false
+            },
+            {
+                "Text": "Zur Erfuellung des Ziels muss maximaler Aufwand betrieben werden.",
+                "Wahr": false
+            }
+        ]
+    },
+    {
+        "Text": "Frage 2: Welche Aussage(n) treffen auf das Minimumprinzip zu?",
+        "AntwortListe": [
+            {
+                "Text": "Das Minimumprinzip ist eine Weiterentwicklung des Extremumprinzips.",
+                "Wahr": false
+            },
+            {
+                "Text": "Ist auf das Minimumgesetz von K.Sprengel (1839) zurueckzufuehren.",
+                "Wahr": false
+            },
+            {
+                "Text": "Einen bestimmten Erfolg mit minimalen Mitteln erzielen.",
+                "Wahr": true
+            },
+            {
+                "Text": "Mit minimalem Aufwand das Maximum erreichen.",
+                "Wahr": false
+            }
+        ]
+    }
+]
+
+
+
